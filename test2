@@ -1,0 +1,14 @@
+AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
+AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+
+GITHUB_TOKEN=ghp_FAKE1234567890abcdefghijklmnopqrstuvwxyz
+
+AZURE_CLIENT_SECRET=fake-client-secret-for-testing-only
+
+DB_PASSWORD=this_is_a_fake_password_123
+
+API_KEY=fake_api_key_abcdefghijklmnopqrstuvwxyz
+
+VAULT_TOKEN=hvs.fake-token-for-testing-only
+
+IBM_CLOUD_API_KEY=fake-ibm-cloud-api-key-1234567890
