@@ -1,0 +1,13 @@
+{
+  "database": {
+    "username": "admin",
+    "password": "fakePassword123!"
+  },
+  "aws": {
+    "accessKeyId": "AKIAIOSFODNN7EXAMPLE",
+    "secretAccessKey": "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+  },
+  "github": {
+    "token": "ghp_FAKE1234567890abcdefghijklmnopqrstuvwxyz"
+  }
+}
